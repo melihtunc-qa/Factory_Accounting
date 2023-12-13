@@ -1,0 +1,14 @@
+
+P
+java:S1121#".Extract the assignment out of this expression.(ñ±äÑşÿÿÿÿ8•ğ©§Æ1
+K
+java:S1121%".Extract the assignment out of this expression.(î˜¥â8•ğ©§Æ1
+P
+java:S1121'".Extract the assignment out of this expression.(×šÒıÿÿÿÿ8•ğ©§Æ1
+_
+java:S2184"BCast one of the operands of this division operation to a "double".(ŒéñÅ8˜ğ©§Æ1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(æñÜĞÿÿÿÿÿ8¦ğ©§Æ1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(‚Ü«8ºªµ§Æ1
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(”÷Åã8êŞµ§Æ1
+9
+java:S22250"Return empty string instead.(¥¹ï8‰¾ª§Æ1
